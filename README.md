@@ -6,18 +6,21 @@ UIKit / Storyboard を中心に、アプリ制作を通して設計・実装・G
 
 ## Skills
 - Swift
+- Xcode
 - UIKit
 - Storyboard / XIB
 - CocoaPods
 - Realm
 - Git / GitHub
-- Xcode
 
-## Products / Projects
+
+## Products
 
 ### JapanMapCount
 訪問した地域を記録・管理するiOSアプリです。  
-個人開発を通して、画面遷移、データ管理、UI実装の理解を深めました。
+個人開発を通して、画面遷移、データ管理、UI実装の理解を深めました。    
+「旅先記録」という名称でAppStoreへのリリースもしています。  
+旅先記録:https://apps.apple.com/jp/app/%E6%97%85%E5%85%88%E8%A8%98%E9%8C%B2/id6759833818
 
 ### XApp_Repository
 投稿画面やタイムライン表示などを実装しながら、UITableViewや画面設計を学習したアプリです。  
