@@ -1,16 +1,42 @@
-## Hi there 👋
+# T. Kaneko
 
-<!--
-**kanegon12/kanegon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOSエンジニアを目指して、Swiftを使った学習と個人開発に取り組んでいます。  
+UIKit / Storyboard を中心に、アプリ制作を通して設計・実装・GitHubでの管理を学んでいます。  
+学習内容や制作物は GitHub と Qiita にまとめています。
 
-Here are some ideas to get you started:
+## Skills
+- Swift
+- UIKit
+- Storyboard / XIB
+- CocoaPods
+- Realm
+- Git / GitHub
+- Xcode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Products / Projects
+
+### JapanMapCount
+訪問した地域を記録・管理するiOSアプリです。  
+個人開発を通して、画面遷移、データ管理、UI実装の理解を深めました。
+
+### XApp_Repository
+投稿画面やタイムライン表示などを実装しながら、UITableViewや画面設計を学習したアプリです。  
+UI実装やデータ表示の流れを理解することを目的に制作しました。
+
+### GasStation-Repository
+条件分岐や料金計算などのロジックをSwiftで実装した学習用リポジトリです。  
+ビジネスロジックを整理しながらコードに落とし込む練習を行いました。
+
+### Humidifier-Repository
+状態や条件によって動作が変わる処理をSwiftで実装した学習用リポジトリです。  
+条件整理や処理分岐の考え方を身につけるために取り組みました。
+
+## What I’m working on
+- Swift / UIKit を使ったiOSアプリ開発の学習
+- Git / GitHub を使った開発フローの習得
+- 個人開発アプリの改善とREADME整備
+- Qiitaでの学習記録の発信
+
+## Links
+- Qiita: （ここにQiitaのURL）
+- X: （載せるならここにXのURL）
