@@ -38,5 +38,4 @@ UI実装やデータ表示の流れを理解することを目的に制作しま
 - Qiitaでの学習記録の発信
 
 ## Links
-- Qiita: （ここにQiitaのURL）
-- X: （載せるならここにXのURL）
+- Qiita: https://qiita.com/newbie_01
